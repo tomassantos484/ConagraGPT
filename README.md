@@ -1,11 +1,11 @@
 # ConagraGPT
-ConagraGPT is an award winning custom GPT solution that I designed for the purposes of my Tech and CompSci Case Competition @ FBLA NLC in Orlando, FL from June 24-27. I managed to capture 3rd Place in the Case Competition with this AI-driven solution!
+ConagraGPT is an award-winning custom GPT solution that I designed for the purposes of my Tech and CompSci Case Competition @ FBLA NLC in Orlando, FL, from June 24-27. I managed to capture 3rd Place in the Case Competition with this AI-driven solution!
 
-The Tech & CompSci Case Competition examined Conagra Brands. They are a Fortune 500 company with over $12.3 billion in revenue in the past year alone. They boat an expansive portfolio of memorable and world-renowned brands, such as Slim Jim, Swiss Miss, David Seeds, Reddi Whip, etc.
+The Tech & CompSci Case Competition examined Conagra Brands. They are a Fortune 500 company with over $12.3 billion in revenue in the past year alone. They boast an expansive portfolio of memorable and world-renowned brands, such as Slim Jim, Swiss Miss, David Seeds, Reddi Whip, etc.
 
-While everything may be going well for them on the surface, in reality they are facing a dilemma. Because of the inadequacy of traditional market research methods, they are falling behind the curve in identifying food trends, nutritional needs, and products that can effectively fill market gaps.
+While everything may be going well for them on the surface, they are facing a dilemma. Because of the inadequacy of traditional market research methods, they are falling behind the curve in identifying food trends, nutritional needs, and products that can effectively fill market gaps.
 
-To address these issues, I designed ConagraGPT, a custom GPT through OpenAI's platform. I can effectively analyze food trends, nutritional needs, and suggest new products to fill makret gaps for Conagra Brands.
+I designed ConagraGPT, a custom GPT through OpenAI's platform to address these issues. I can effectively analyze food trends, nutritional needs, and suggest new products to fill market gaps for Conagra Brands.
 
 # **Example Prompts and Answers**
 
@@ -20,7 +20,7 @@ To address these issues, I designed ConagraGPT, a custom GPT through OpenAI's pl
 
 # **What's Under The Hood?**
 
-ConagraGPT leverages OpenAI's 4o model, their highest performing model to date. In addition, I utilized Apify, a cloud-based web scraping solution to scrape multiple websites and add to ConagraGPT's knowledge base. These websites include Conagra's own, Conagra's Form 10K annual reports to the Securities and Exchange Commission (SEC), industry articles, and more. Below you can see Apify's platform as well as some of the JSON knowledge files I uploaded to ConagraGPT's knowledge base:
+ConagraGPT leverages OpenAI's 4o model, their highest-performing model to date. In addition, I utilized Apify, a cloud-based web scraping solution to scrape multiple websites and add to ConagraGPT's knowledge base. These websites include Conagra's own, Conagra's Form 10K annual reports to the Securities and Exchange Commission (SEC), industry articles, and more. Below you can see Apify's platform as well as some of the JSON knowledge files I uploaded to ConagraGPT's knowledge base:
 
 ![image](https://github.com/tomassantos484/ConagraGPT/assets/102435876/a596179f-5621-4e39-9b92-b32e15992ab2)
 
